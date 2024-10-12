@@ -18,8 +18,10 @@ This project is a Java-based hospital management system that provides a user-fri
 - **JDBC**: For database connection and operations.
 - **MySQL**: Database for storing hospital data.
 
-##Screenshots
+## Screenshots
+
 ![image](https://github.com/user-attachments/assets/e1d8b165-1359-46eb-8df1-9ebb875bff48)
-![image](https://github.com/user-attachments/assets/b120fc82-21d8-401d-91e6-7e2e0f11e0c3)
+![image](https://github.com/user-attachments/assets/627e512c-5b8d-44c7-86a5-eba0c75cbd84)
+
 
 
