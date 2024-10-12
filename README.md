@@ -13,10 +13,10 @@ This project is a Java-based hospital management system that provides a user-fri
 
 ## Technologies Used
 
-- **Java**: Core programming language.
-- **Swing**: For building the GUI.
-- **JDBC**: For database connection and operations.
-- **MySQL**: Database for storing hospital data.
+- **Java Swing**: Utilized for creating the graphical user interface (GUI) of the application, providing a rich user experience.
+- **MySQL Workbench**: Used for database management, allowing for efficient handling of patient and staff data.
+- **Abstract Window Toolkit (AWT)**: Employed alongside Swing for additional GUI components and functionalities.
+- **IntelliJ IDEA**: The integrated development environment (IDE) used for developing the application, providing tools for code management and debugging.
 
 ## Screenshots
 
